@@ -1,222 +1,289 @@
-# LAT
 #EXTM3U
-#EXTINF:-1 ,Latino | A&E HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3705.ts
-#EXTINF:-1 ,Latino | AMC
-https://hostcloud.network/live/delpiero1537/Rpo78218/3660.ts
-#EXTINF:-1 ,Latino | Animal Planet
-https://hostcloud.network/live/delpiero1537/Rpo78218/3704.ts
-#EXTINF:-1 ,Latino | AXN HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3703.ts
-#EXTINF:-1 ,Latino | AZTECA 7 FHD
-https://hostcloud.network/live/delpiero1537/Rpo78218/71453.ts
-#EXTINF:-1 ,Latino | AZTECA Uno
-https://hostcloud.network/live/delpiero1537/Rpo78218/3702.ts
-#EXTINF:-1 ,Latino | BEIN En Espanol
-https://hostcloud.network/live/delpiero1537/Rpo78218/8877.ts
-#EXTINF:-1 ,Latino | Canal 5
-https://hostcloud.network/live/delpiero1537/Rpo78218/71704.ts
-#EXTINF:-1 ,Latino| Canal 22 (XEIMT)
-https://hostcloud.network/live/delpiero1537/Rpo78218/104327.ts
-#EXTINF:-1 ,Latino | Canal De Las Estrellas
-https://hostcloud.network/live/delpiero1537/Rpo78218/3650.ts
-#EXTINF:-1 ,Latino | Cartoon Network HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3698.ts
-#EXTINF:-1 ,Latino | Cinecanal
-https://hostcloud.network/live/delpiero1537/Rpo78218/3697.ts
-#EXTINF:-1 ,Latino | Cine Latino
-https://hostcloud.network/live/delpiero1537/Rpo78218/3700.ts
-#EXTINF:-1 ,Latino | CINEMAX
-https://hostcloud.network/live/delpiero1537/Rpo78218/3657.ts
-#EXTINF:-1 ,Latino| CINEMA DINAMITA
-https://hostcloud.network/live/delpiero1537/Rpo78218/103338.ts
-#EXTINF:-1 ,Latino | CNN Chile HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3670.ts
-#EXTINF:-1 ,Latino | CNN ESPANOL
-https://hostcloud.network/live/delpiero1537/Rpo78218/71703.ts
-#EXTINF:-1 ,Latino | Comedy Central HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3696.ts
-#EXTINF:-1 ,Latino | Discovery Channel
-https://hostcloud.network/live/delpiero1537/Rpo78218/3694.ts
-#EXTINF:-1 ,Latino | Discovery Civilization
-https://hostcloud.network/live/delpiero1537/Rpo78218/3693.ts
-#EXTINF:-1 ,Latino | Discovery Familia
-https://hostcloud.network/live/delpiero1537/Rpo78218/35993.ts
-#EXTINF:-1 ,Latino | Discovery H&H
-https://hostcloud.network/live/delpiero1537/Rpo78218/3692.ts
-#EXTINF:-1 ,Latino | Discovery ID
-https://hostcloud.network/live/delpiero1537/Rpo78218/3691.ts
-#EXTINF:-1 ,Latino | Discovery Theater HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3689.ts
-#EXTINF:-1 ,Latino | Discovery TLC
-https://hostcloud.network/live/delpiero1537/Rpo78218/3688.ts
-#EXTINF:-1 ,Latino | Discovery Turbo
-https://hostcloud.network/live/delpiero1537/Rpo78218/3687.ts
-#EXTINF:-1 ,Latino | Distrito Comedia
-https://hostcloud.network/live/delpiero1537/Rpo78218/103823.ts
-#EXTINF:-1 ,Latino | Discovery World
-https://hostcloud.network/live/delpiero1537/Rpo78218/3695.ts
-#EXTINF:-1 ,Latino | Disney Channel
-https://hostcloud.network/live/delpiero1537/Rpo78218/103825.ts
-#EXTINF:-1 ,Latino| DE PELICULA
-https://hostcloud.network/live/delpiero1537/Rpo78218/103339.ts
-#EXTINF:-1 ,Latino | ESPN MEX
-https://hostcloud.network/live/delpiero1537/Rpo78218/7463.ts
-#EXTINF:-1 ,Latino | ESPN 2 MEX
-https://hostcloud.network/live/delpiero1537/Rpo78218/7536.ts
-#EXTINF:-1 ,Latino | ESPN 3 MEX
-https://hostcloud.network/live/delpiero1537/Rpo78218/3361.ts
-#EXTINF:-1 ,Latino | ESPN ARG
-https://hostcloud.network/live/delpiero1537/Rpo78218/3363.ts
-#EXTINF:-1 ,Latino | ESPN Deportes HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/59.ts
-#EXTINF:-1 ,Latino| Estrella TV
-https://hostcloud.network/live/delpiero1537/Rpo78218/104030.ts
-#EXTINF:-1 ,Latino| Estrella News
-https://hostcloud.network/live/delpiero1537/Rpo78218/104629.ts
-#EXTINF:-1 ,Latino | Fox Sports MEX
-https://hostcloud.network/live/delpiero1537/Rpo78218/3359.ts
-#EXTINF:-1 ,Latino | Fox Sports 2 MEX
-https://hostcloud.network/live/delpiero1537/Rpo78218/3358.ts
-#EXTINF:-1 ,Latino | FOX SPORTS 3 MEX
-https://hostcloud.network/live/delpiero1537/Rpo78218/3679.ts
-#EXTINF:-1 ,Latino | FOX DEPORTES HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/8876.ts
-#EXTINF:-1 ,Latino | Galavison HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3681.ts
-#EXTINF:-1 ,Latino | Glitz
-https://hostcloud.network/live/delpiero1537/Rpo78218/3680.ts
-#EXTINF:-1 ,Latino | Golden Plus HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3678.ts
-#EXTINF:-1 ,Latino | Golf Latin America
-https://hostcloud.network/live/delpiero1537/Rpo78218/3677.ts
-#EXTINF:-1 ,Latino| GolTV Latinoamerica
-https://hostcloud.network/live/delpiero1537/Rpo78218/104133.ts
-#EXTINF:-1 ,Latino | GOL TV
-https://hostcloud.network/live/delpiero1537/Rpo78218/9330.ts
-#EXTINF:-1 ,Latino | Gourmet
-https://hostcloud.network/live/delpiero1537/Rpo78218/85351.ts
-#EXTINF:-1 ,Latino| HBO Latino
-https://hostcloud.network/live/delpiero1537/Rpo78218/87991.ts
-#EXTINF:-1 ,Latino | HBO
-https://hostcloud.network/live/delpiero1537/Rpo78218/3656.ts
-#EXTINF:-1 ,Latino | HBO Family
-https://hostcloud.network/live/delpiero1537/Rpo78218/8837.ts
-#EXTINF:-1 ,Latino| HGTV
-https://hostcloud.network/live/delpiero1537/Rpo78218/104163.ts
-#EXTINF:-1 ,Latino| History Espanol
-https://hostcloud.network/live/delpiero1537/Rpo78218/88006.ts
-#EXTINF:-1 ,Latino | History HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3676.ts
-#EXTINF:-1 ,Latino| H2
-https://hostcloud.network/live/delpiero1537/Rpo78218/104137.ts
-#EXTINF:-1 ,Latino | Lifetime
-https://hostcloud.network/live/delpiero1537/Rpo78218/3647.ts
-#EXTINF:-1 ,Latino| Mega TV
-https://hostcloud.network/live/delpiero1537/Rpo78218/104139.ts
-#EXTINF:-1 ,Latino | Milenio TV HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3675.ts
-#EXTINF:-1 ,Latino | Multimedios HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/103821.ts
-#EXTINF:-1 ,Latino | MTV
-https://hostcloud.network/live/delpiero1537/Rpo78218/3674.ts
-#EXTINF:-1 ,Latino | NatGeo Wild HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3673.ts
-#EXTINF:-1 ,Latino | NBC UNIVERSO
-https://hostcloud.network/live/delpiero1537/Rpo78218/8836.ts
-#EXTINF:-1 ,Latino | Nickelodeon
-https://hostcloud.network/live/delpiero1537/Rpo78218/35994.ts
-#EXTINF:-1 ,Latino | Nick Jr.
-https://hostcloud.network/live/delpiero1537/Rpo78218/3646.ts
-#EXTINF:-1 ,Latino| Pasiones
-https://hostcloud.network/live/delpiero1537/Rpo78218/103184.ts
-#EXTINF:-1 ,Latino| Peru Magico
-https://hostcloud.network/live/delpiero1537/Rpo78218/104138.ts
-#EXTINF:-1 ,Latino | Sony
-https://hostcloud.network/live/delpiero1537/Rpo78218/3652.ts
-#EXTINF:-1 ,Latino | Space HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3672.ts
-#EXTINF:-1 ,Latino | Star Channel
-https://hostcloud.network/live/delpiero1537/Rpo78218/3683.ts
-#EXTINF:-1 ,Latino | Star Action HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3685.ts
-#EXTINF:-1 ,Latino | Star Cinema
-https://hostcloud.network/live/delpiero1537/Rpo78218/3684.ts
-#EXTINF:-1 ,Latino| Star Comedy
-https://hostcloud.network/live/delpiero1537/Rpo78218/89109.ts
-#EXTINF:-1 ,Latino | Star Hits
-https://hostcloud.network/live/delpiero1537/Rpo78218/3682.ts
-#EXTINF:-1 ,Latino | Star Life
-https://hostcloud.network/live/delpiero1537/Rpo78218/3686.ts
-#EXTINF:-1 ,Latino| StarzEncore Family
-https://hostcloud.network/live/delpiero1537/Rpo78218/87990.ts
-#EXTINF:-1 ,Latino | STUDIO UNIVERSAL
-https://hostcloud.network/live/delpiero1537/Rpo78218/3648.ts
-#EXTINF:-1 ,Latino | SyFy
-https://hostcloud.network/live/delpiero1537/Rpo78218/3653.ts
-#EXTINF:-1 ,Latino | TBS
-https://hostcloud.network/live/delpiero1537/Rpo78218/71587.ts
-#EXTINF:-1 ,Latino | TCM
-https://hostcloud.network/live/delpiero1537/Rpo78218/3643.ts
-#EXTINF:-1 ,Latino| Telemax Hermosillo
-https://hostcloud.network/live/delpiero1537/Rpo78218/104092.ts
-#EXTINF:-1 ,Latino | TELEMUNDO Int.
-https://hostcloud.network/live/delpiero1537/Rpo78218/620.ts
-#EXTINF:-1 ,Latino| Telemundo KTAS
-https://hostcloud.network/live/delpiero1537/Rpo78218/104154.ts
-#EXTINF:-1 ,Latino| Telemundo 44 WSNS
-https://hostcloud.network/live/delpiero1537/Rpo78218/103400.ts
-#EXTINF:-1 ,Latino| Telemundo 51
-https://hostcloud.network/live/delpiero1537/Rpo78218/97266.ts
-#EXTINF:-1 ,Latino | Telemundo New York WJNU
-https://hostcloud.network/live/delpiero1537/Rpo78218/3668.ts
-#EXTINF:-1 ,Latino | Telemundo Puerto Rico HD L
-https://hostcloud.network/live/delpiero1537/Rpo78218/3671.ts
-#EXTINF:-1 ,Latino | TLNovelas
-https://hostcloud.network/live/delpiero1537/Rpo78218/3651.ts
-#EXTINF:-1 ,Latino| TLNOVELAS
-https://hostcloud.network/live/delpiero1537/Rpo78218/45706.ts
-#EXTINF:-1 ,Latino | TNT
-https://hostcloud.network/live/delpiero1537/Rpo78218/3669.ts
-#EXTINF:-1 ,Latino | TNT Series
-https://hostcloud.network/live/delpiero1537/Rpo78218/3665.ts
-#EXTINF:-1 ,Latino | Tooncast
-https://hostcloud.network/live/delpiero1537/Rpo78218/103824.ts
-#EXTINF:-1 ,Latino | TUDN
-https://hostcloud.network/live/delpiero1537/Rpo78218/3662.ts
-#EXTINF:-1 ,Latino | TUDN US
-https://hostcloud.network/live/delpiero1537/Rpo78218/102082.ts
-#EXTINF:-1 ,Latino | TV PUBLICA HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/65591.ts
-#EXTINF:-1 ,Latino | TYC SPORTS
-https://hostcloud.network/live/delpiero1537/Rpo78218/9208.ts
-#EXTINF:-1 ,Latino | Unicable HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3666.ts
-#EXTINF:-1 ,Latino | UNIMAS
-https://hostcloud.network/live/delpiero1537/Rpo78218/8838.ts
-#EXTINF:-1 ,Latino | UNIVERSAL CHANNEL
-https://hostcloud.network/live/delpiero1537/Rpo78218/37753.ts
-#EXTINF:-1 ,Latino| UNIVISION 14
-https://hostcloud.network/live/delpiero1537/Rpo78218/103633.ts
-#EXTINF:-1 ,Latino| Univision Miami
-https://hostcloud.network/live/delpiero1537/Rpo78218/104032.ts
-#EXTINF:-1 ,Latino | Univision L.A HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/87982.ts
-#EXTINF:-1 ,Latino | UNIVISION PR
-https://hostcloud.network/live/delpiero1537/Rpo78218/463.ts
-#EXTINF:-1 ,Latino| Ve plus
-https://hostcloud.network/live/delpiero1537/Rpo78218/104220.ts
-#EXTINF:-1 ,Latino| VTV HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/104222.ts
-#EXTINF:-1 ,Latino | WAPA
-https://hostcloud.network/live/delpiero1537/Rpo78218/45425.ts
-#EXTINF:-1 ,Latino| Wapa Amerika
-https://hostcloud.network/live/delpiero1537/Rpo78218/71329.ts
-#EXTINF:-1 ,Latino | Wapa 2
-https://hostcloud.network/live/delpiero1537/Rpo78218/87983.ts
-#EXTINF:-1 ,Latin American Sports
-https://hostcloud.network/live/delpiero1537/Rpo78218/104330.ts
-#EXTINF:-1 ,Latino | Direct Tv Sports 2
-https://hostcloud.network/live/delpiero1537/Rpo78218/69350.ts
-#EXTINF:-1 ,Latino | Direct Tv Sports+
-https://hostcloud.network/live/delpiero1537/Rpo78218/3360.ts
+#EXTINF:-1 ,LA: TLN CANADA ES
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/397114
+#EXTINF:-1 ,LA: TLN TLNOVELAS ES
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/397113
+#EXTINF:-1 ,LA: TV5 MONDE LATINO
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20089
+#EXTINF:-1 ,LA: TELEMUNDO EAST
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20427
+#EXTINF:-1 ,LA: TELEMUNDO WEST HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/52876
+#EXTINF:-1 ,LA: TELEMUNDO PUERTO RICO
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/52986
+#EXTINF:-1 ,LA: TELEMUNDO MIAMI HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/385649
+#EXTINF:-1 ,LA: TELEMUNDO LAS VEGAS
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20254
+#EXTINF:-1 ,LA: TELEMUNDO PHOENIX HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20305
+#EXTINF:-1 ,LA: TELEMUNDO NEW YORK HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/51867
+#EXTINF:-1 ,LA: TELEMUNDO INTERNATIONAL HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/52225
+#EXTINF:-1 ,LA: UNIVISION PUERTO RICO
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20166
+#EXTINF:-1 ,LA: UNIVISION WEST HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/51869
+#EXTINF:-1 ,LA: UNIVISION TELENOVELAS
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/52224
+#EXTINF:-1 ,LA: OYE LATINOS HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/406639
+#EXTINF:-1 ,LA: MEGA TV Miami
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/384877
+#EXTINF:-1 ,LA: NBC UNIVERSO HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/384878
+#EXTINF:-1 ,LA: UNIMAS NEW YORK HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/51873
+#EXTINF:-1 ,LA: GALAVISION
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/51872
+#EXTINF:-1 ,LA: HBO WEST HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20351
+#EXTINF:-1 ,LA: HBO SIGNATURE HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20352
+#EXTINF:-1 ,LA: HBO PLUS HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20354
+#EXTINF:-1 ,LA: HBO FAMILY HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20355
+#EXTINF:-1 ,LA: HBO EAST HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20356
+#EXTINF:-1 ,LA: HBO CHILE
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20083
+#EXTINF:-1 ,LA: HBO 2
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20288
+#EXTINF:-1 ,LA: H2
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20258
+#EXTINF:-1 ,LA: FX
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20264
+#EXTINF:-1 ,LA: FOX SERIES
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20276
+#EXTINF:-1 ,LA: FOX MOVIES
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20281
+#EXTINF:-1 ,LA: FOX LIFE ES
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20270
+#EXTINF:-1 ,LA: FOX FAMILY
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20259
+#EXTINF:-1 ,LA: FOX CLASSIC
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20271
+#EXTINF:-1 ,LA: HGTV
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20282
+#EXTINF:-1 ,LA: FOX
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20266
+#EXTINF:-1 ,LA: DISCOVERY KIDS
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20149
+#EXTINF:-1 ,LA: DISCOVERY TURBO
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20275
+#EXTINF:-1 ,LA: DISCOVERY THEATER
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20104
+#EXTINF:-1 ,LA: DISCOVERY SCIENCE
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20078
+#EXTINF:-1 ,LA: DISCOVERY H&H
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20280
+#EXTINF:-1 ,LA: DISCOVERY CIVILIZATION
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20278
+#EXTINF:-1 ,LA: DISCOVERY CHANNEL
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20226
+#EXTINF:-1 ,LA: WARNER
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20232
+#EXTINF:-1 ,LA: VH1 CLASSICS
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20155
+#EXTINF:-1 ,LA: VH1 HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20424
+#EXTINF:-1 ,LA: CINE LATINO
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20156
+#EXTINF:-1 ,LA: UNIVERSAL CHANNEL
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20242
+#EXTINF:-1 ,LA: TRU TV MX
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20239
+#EXTINF:-1 ,LA: TBS HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20001
+#EXTINF:-1 ,LA: TNT SERIES
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20245
+#EXTINF:-1 ,LA: TNT HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20237
+#EXTINF:-1 ,LA: TLC MEX
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20244
+#EXTINF:-1 ,LA: TCM
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20252
+#EXTINF:-1 ,LA: TBS VERY FUNNY
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20251
+#EXTINF:-1 ,LA: SYFY
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20250
+#EXTINF:-1 ,LA: SPACE
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20240
+#EXTINF:-1 ,LA: SONY
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20248
+#EXTINF:-1 ,LA: RCN NOVELAS US
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20301
+#EXTINF:-1 ,LA: PARAMOUNT CHANNEL HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20238
+#EXTINF:-1 ,LA: CNN INT
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20256
+#EXTINF:-1 ,LA: CNN ESPANOL
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20294
+#EXTINF:-1 ,LA: NAT GEO WILD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20246
+#EXTINF:-1 ,LA: NAT GEO KIDS
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20152
+#EXTINF:-1 ,LA: NAT GEO
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20247
+#EXTINF:-1 ,LA: NAT GEO KIDS HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20431
+#EXTINF:-1 ,LA: MAX PRIME HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20283
+#EXTINF:-1 ,LA: MAX UP HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20216
+#EXTINF:-1 ,LA: ID
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20243
+#EXTINF:-1 ,LA: INTI  HD CLCL
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20217
+#EXTINF:-1 ,LA: DW NOTICIAS HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20316
+#EXTINF:-1 ,LA: HISTORY CH
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20236
+#EXTINF:-1 ,LA: FILM & ARTS
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20098
+#EXTINF:-1 ,LA: CINE MARVEL HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20308
+#EXTINF:-1 ,LA: ESPN PLUS
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20062
+#EXTINF:-1 ,LA: ESPN 3
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20267
+#EXTINF:-1 ,LA: ESPN 2
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20268
+#EXTINF:-1 ,LA: ESPN
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20269
+#EXTINF:-1 ,LA: E! ENTERTAIMENTS
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20272
+#EXTINF:-1 ,LA: NICKTOONS - MEX
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20025
+#EXTINF:-1 ,LA: NICK JR
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20307
+#EXTINF:-1 ,LA: NICKELODEON
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20306
+#EXTINF:-1 ,LA: NICK 2 HD MX
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20416
+#EXTINF:-1 ,LA: DISNEY XD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20233
+#EXTINF:-1 ,LA: DISNEY JR SPAIN
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20274
+#EXTINF:-1 ,LA: DISNEY CHANNEL
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20224
+#EXTINF:-1 ,LA: BABY TV
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20110
+#EXTINF:-1 ,LA: COMEDY CENTRAL
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20167
+#EXTINF:-1 ,LA: CINE MAX
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20293
+#EXTINF:-1 ,LA: CINE CANAL
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20297
+#EXTINF:-1 ,LA: FUTV HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20023
+#EXTINF:-1 ,LA: CARTOON NETWORK
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20292
+#EXTINF:-1 ,LA: BOOMERANG
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20299
+#EXTINF:-1 ,LA: BBC WORLD NEWS
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20063
+#EXTINF:-1 ,LA: AXN
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20298
+#EXTINF:-1 ,LA: ANIMAL PLANET
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20296
+#EXTINF:-1 ,LA: AMC
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20303
+#EXTINF:-1 ,LA: A&E
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20302
+#EXTINF:-1 ,LA: TRU TV COL
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20425
+#EXTINF:-1 ,LA: TLC
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20426
+#EXTINF:-1 ,LA: STUDIO UNIVERSAL.
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20429
+#EXTINF:-1 ,LA: RCN NUESTRATELE
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20430
+#EXTINF:-1 ,LA: MTV HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20417
+#EXTINF:-1 ,LA: LIFETIME HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20403
+#EXTINF:-1 ,LA: HTV
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20435
+#EXTINF:-1 ,LA: BLOOMBERG HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20421
+#EXTINF:-1 ,LA: INDIEPLEX HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20350
+#EXTINF:-1 ,LA: TELEMUNDO - ARG
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/31936
+#EXTINF:-1 ,LA: EUROPA CHANNEL
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20075
+#EXTINF:-1 ,LA: ANTENA 3
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20047
+#EXTINF:-1 ,LA: EL SEMBRADOR
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/19998
+#EXTINF:-1 ,LA: CINE ACCION HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20077
+#EXTINF:-1 ,LA: TELECENTRO
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20061
+#EXTINF:-1 ,LA: MASCHIC HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20434
+#EXTINF:-1 ,LA: CANAL 4 HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20414
+#EXTINF:-1 ,LA: CINE MAX ACTION HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20359
+#EXTINF:-1 ,LA: MOREMAX HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20349
+#EXTINF:-1 ,LA: FX MOVIES HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20348
+#EXTINF:-1 ,LA: MOVIEPLEX HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20347
+#EXTINF:-1 ,LA: OUTERMAX HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20346
+#EXTINF:-1 ,LA: SHOWTIME BEYOND HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20344
+#EXTINF:-1 ,LA: SHOWTIME EAST HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20343
+#EXTINF:-1 ,LA: SHOWTIME HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20342
+#EXTINF:-1 ,LA: SHOWTIME WEST HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20340
+#EXTINF:-1 ,LA: STARZ BLACK HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20339
+#EXTINF:-1 ,LA: STARZ CINEMA HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20338
+#EXTINF:-1 ,LA: STARZ COMEDY HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20337
+#EXTINF:-1 ,LA: STARZ EAST HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20335
+#EXTINF:-1 ,LA: STARZ EDGE HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20334
+#EXTINF:-1 ,LA: STARZ ENCORE ACTION
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20333
+#EXTINF:-1 ,LA: STARZ ENCORE BLACK HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20332
+#EXTINF:-1 ,LA: STARZ ENCORE CLASSIC HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20331
+#EXTINF:-1 ,LA: STARZ ENCORE FAMILY HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20330
+#EXTINF:-1 ,LA: STARZ ENCORE HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20329
+#EXTINF:-1 ,LA: STARZ ENCORE SUSPENSE HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20327
+#EXTINF:-1 ,LA: STARZ ENCORE WESTERN HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20326
+#EXTINF:-1 ,LA: STARZ FAMILY HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20325
+#EXTINF:-1 ,LA: STARZ HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20324
+#EXTINF:-1 ,LA: STARZ KIDS & FAMILY HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20323
+#EXTINF:-1 ,LA: STARZ WEST HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20322
+#EXTINF:-1 ,LA: UNIVISION NY HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/51870
+#EXTINF:-1 ,LA: UNIVISION EAST HD.
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/413611
+#EXTINF:-1 ,LA: UNIVISION CANADA
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/21026
+#EXTINF:-1 ,LA: UNIVISION MIAMI HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20277
+#EXTINF:-1 ,LA: UNIVISION TUDN HD
+http://qqtv.nl:8080/Chrisibell@gmail.com/51508356/20115
